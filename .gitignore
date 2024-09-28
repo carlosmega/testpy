@@ -65,7 +65,7 @@ venv.bak/
 # Spyder project settings
 .spyderproject
 
-# Rope project settings
+# RopeF project settings
 .ropeproject
 
 # mkdocs documentation
